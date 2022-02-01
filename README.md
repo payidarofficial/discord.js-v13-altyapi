@@ -3,5 +3,5 @@ Discord.JS V13 ALTYAPI
 
 
 # Altyapı
-## @DevJustForever Tarafından Yazılmıştır.
+## @DevJustForever & @payidarofficial Tarafından Yazılmıştır.
 ## https://justmert.xyz
